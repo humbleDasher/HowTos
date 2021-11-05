@@ -8,6 +8,7 @@ Created Thursday 04 November 2021
 Alphabetical List:
 * [[+git]]
 * [[+github]]
+* [[+git:libsecret]]
 * [[+ssh]]
 * [[+sudo]]
 
