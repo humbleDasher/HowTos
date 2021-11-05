@@ -7,3 +7,4 @@ Created Friday 05 November 2021
 
 Tasks:
 * [[+create_personal_access_token]]
+* [[+clone_a_remote_github_repo_via_ssh_using_a_personal_access_token]]
