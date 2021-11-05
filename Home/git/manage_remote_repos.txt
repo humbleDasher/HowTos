@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-11-04T23:57:35-04:00
+
+====== manage remote repos ======
+Created Thursday 04 November 2021
+
+Instructions:
+https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories

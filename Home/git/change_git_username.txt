@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-11-05T01:38:07-04:00
+
+====== change git username ======
+Created Friday 05 November 2021
+
+Instructions:
+https://stackoverflow.com/questions/22844806/how-to-change-my-git-username-in-terminal

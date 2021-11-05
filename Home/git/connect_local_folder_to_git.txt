@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-11-04T23:27:48-04:00
+
+====== connect local folder to git ======
+Created Thursday 04 November 2021
+
+Instructions:
+https://stackoverflow.com/questions/36132956/how-to-connect-local-folder-to-git-repository-and-start-making-changes-on-branch

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-11-05T01:57:56-04:00
+
+====== create personal access token ======
+Created Friday 05 November 2021
+
+Instructions:
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
