@@ -2,8 +2,16 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2021-11-04T23:25:38-04:00
 
-====== Home ======
+====== index ======
 Created Thursday 04 November 2021
+
+Tasks:
+* Export these notes to html weekly:
+
+[*] Last export completed: 20211105 
+[ ] Next export: 20211112
+
+
 
 Alphabetical List:
 * [[+git]]

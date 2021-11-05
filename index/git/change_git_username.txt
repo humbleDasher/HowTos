@@ -6,6 +6,6 @@ Creation-Date: 2021-11-05T01:38:07-04:00
 Created Friday 05 November 2021
 
 Instructions:
-HTTPS  ~~stackoverflow.com/questions/22844806/how-to-change-my-git-username-in-terminal~~     (DEPRECATED) 
+https://stackoverflow.com/questions/22844806/how-to-change-my-git-username-in-terminal 
 
-20211105: Use libsecret instead: [[libsecret]]
+
