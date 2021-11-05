@@ -17,6 +17,7 @@ Alphabetical List:
 * [[+git]]
 * [[+github]]
 * [[+git:libsecret]]
+* [[+html]]
 * [[+ssh]]
 * [[+sudo]]
 

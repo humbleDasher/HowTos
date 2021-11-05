@@ -5,6 +5,8 @@ Creation-Date: 2021-11-05T01:56:54-04:00
 ====== github ======
 Created Friday 05 November 2021
 
+About github: https://github.com/
+
 Tasks:
 * [[+create_personal_access_token]]
-* [[+clone_a_remote_github_repo_via_ssh_using_a_personal_access_token]]
+* [[+clone a remote github repo and sync it using a personal access token]]

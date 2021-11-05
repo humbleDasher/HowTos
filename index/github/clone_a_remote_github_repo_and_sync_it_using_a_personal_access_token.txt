@@ -2,14 +2,15 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2021-11-05T02:48:28-04:00
 
-====== clone a remote github repo via ssh using a personal access token ======
+====== clone a remote github repo and sync it using a personal access token ======
 Created Friday 05 November 2021
 
-How to clone a remote github repo to your local machine via ssh and a personal access token:
+**How to clone a remote github repo to your local machine and sync it using a personal access token:**
 1. Setup connecting to github via ssh using these instructions: https://docs.github.com/en/authentication/connecting-to-github-with-ssh
 2. Create a personal access token using these instructions: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 3. Clone the github repo using the HTTPS method described here: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 	a. To use the instructions of 3, you MUST create as least one file in the repo, so choose to add a README file during the repo creation process.
-4. Many at least one change to your local copy of the remote repo.
+4. Make at least one change to your local copy of the remote repo.
 5. Push the change to the remote repo, as described here: https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository
 	a. When you enter the "git push origin main" command in a terminal, you will be prompted for your github username and your personal access token.
+6. If you don't want to enter your username and token every time, use [[https://wiki.gnome.org/Projects/Libsecret|libsecret]] and [[https://wiki.gnome.org/Projects/GnomeKeyring|gnome-keyring]] to store them securely: [[git:use gnome keyring as git credential helper]]

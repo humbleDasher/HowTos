@@ -5,5 +5,7 @@ Creation-Date: 2021-11-05T03:49:12-04:00
 ====== sudo ======
 Created Friday 05 November 2021
 
+About sudo: https://www.sudo.ws/
+
 Tasks:
 * [[+add_user_to_sudoers_file]]

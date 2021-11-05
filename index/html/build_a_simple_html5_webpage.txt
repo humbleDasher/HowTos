@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-11-05T06:03:39-04:00
+
+====== build a simple html5 webpage ======
+Created Friday 05 November 2021
+
+About HTML5: https://html.spec.whatwg.org/
+
+References:
+* http://web.simmons.edu/~grovesd/comm244/notes/week1/basic-html5-page
+* https://en.wikipedia.org/wiki/HTML5
+* https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+
+
+Code for a simple HTML5 webpage:
+--------------------
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Page Title</title>
+</head>
+
+<body>
+
+</body>
+</html>
+
+--------------------
+

@@ -5,8 +5,10 @@ Creation-Date: 2021-11-04T23:26:30-04:00
 ====== git ======
 Created Thursday 04 November 2021
 
+About git: https://git-scm.com/
+
 Tasks:
-[[+change_git_username]]
+* [[+change_git_username]]
 * [[+connect_local_folder_to_git]]
 * [[+manage_remote_repos]]
 * [[+use_gnome_keyring_as_git_credential_helper]]
